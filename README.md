@@ -32,4 +32,4 @@ The RandomForest model showed promising results in predicting bankruptcy. Detail
 Future analysis could include testing more sophisticated models and employing advanced imputation methods to handle missing data more effectively.
 
 ## Contact
-For any queries regarding this project, please contact Alexia IGUE on alexia.igue@edu.devinci.fr.
+For any queries regarding this project, please contact Alexia.
